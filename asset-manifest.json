@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/liver-calc/static/css/main.e78fae0c.css",
-    "main.js": "/liver-calc/static/js/main.e100b994.js",
+    "main.js": "/liver-calc/static/js/main.2460d359.js",
     "static/js/787.bd8f2d62.chunk.js": "/liver-calc/static/js/787.bd8f2d62.chunk.js",
     "static/media/map.png": "/liver-calc/static/media/map.9103d738ae85040ccff1.png",
     "static/media/KaTeX_AMS-Regular.ttf": "/liver-calc/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
@@ -66,11 +66,11 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/liver-calc/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/liver-calc/index.html",
     "main.e78fae0c.css.map": "/liver-calc/static/css/main.e78fae0c.css.map",
-    "main.e100b994.js.map": "/liver-calc/static/js/main.e100b994.js.map",
+    "main.2460d359.js.map": "/liver-calc/static/js/main.2460d359.js.map",
     "787.bd8f2d62.chunk.js.map": "/liver-calc/static/js/787.bd8f2d62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e78fae0c.css",
-    "static/js/main.e100b994.js"
+    "static/js/main.2460d359.js"
   ]
 }
